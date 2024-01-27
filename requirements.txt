@@ -1,0 +1,11 @@
+keras
+numpy
+flask
+scikit-learn
+gunicorn
+itsdangerous
+Jinja2
+Werkzeug
+scipy
+Flask-WTF
+tensorflow
